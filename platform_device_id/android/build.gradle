@@ -28,7 +28,7 @@ android {
     compileSdkVersion 34
 
     kotlinOptions {
-        jvmTarget = "21"
+        jvmTarget = '17'
     }
 
     sourceSets {
